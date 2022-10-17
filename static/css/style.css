@@ -68,8 +68,10 @@ body {
 }
 
 body {
+  background: rgb(0,0,0);
+  background: linear-gradient(90deg, rgba(36,0,0,1) 0%, rgba(0,0,0,1) 100%);
   background-color: var(--white);
-  color: var(--black);
+  /*color: var(--black);*/
   padding: 0;
   padding-top: 2rem;
   padding-bottom: 2rem;
